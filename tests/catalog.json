@@ -1,0 +1,182 @@
+[
+  {
+    "level": "1",
+    "questions": 40,
+    "minutes": 40,
+    "sections": [
+      {
+        "name": "Listening",
+        "questions": 20,
+        "minutes": 12
+      },
+      {
+        "name": "Reading",
+        "questions": 20,
+        "minutes": 20
+      }
+    ],
+    "speaking": false,
+    "speaking_minutes": null,
+    "directory": "tests/hsk-1"
+  },
+  {
+    "level": "2",
+    "questions": 60,
+    "minutes": 60,
+    "sections": [
+      {
+        "name": "Listening",
+        "questions": 25,
+        "minutes": 17
+      },
+      {
+        "name": "Reading",
+        "questions": 25,
+        "minutes": 25
+      },
+      {
+        "name": "Writing",
+        "questions": 10,
+        "minutes": 10
+      }
+    ],
+    "speaking": false,
+    "speaking_minutes": null,
+    "directory": "tests/hsk-2"
+  },
+  {
+    "level": "3",
+    "questions": 70,
+    "minutes": 83,
+    "sections": [
+      {
+        "name": "Listening",
+        "questions": 30,
+        "minutes": 23
+      },
+      {
+        "name": "Reading",
+        "questions": 30,
+        "minutes": 30
+      },
+      {
+        "name": "Writing",
+        "questions": 10,
+        "minutes": 20
+      }
+    ],
+    "speaking": true,
+    "speaking_minutes": 15,
+    "directory": "tests/hsk-3"
+  },
+  {
+    "level": "4",
+    "questions": 70,
+    "minutes": 85,
+    "sections": [
+      {
+        "name": "Listening",
+        "questions": 32,
+        "minutes": 20
+      },
+      {
+        "name": "Reading",
+        "questions": 32,
+        "minutes": 30
+      },
+      {
+        "name": "Writing",
+        "questions": 6,
+        "minutes": 25
+      }
+    ],
+    "speaking": true,
+    "speaking_minutes": 20,
+    "directory": "tests/hsk-4"
+  },
+  {
+    "level": "5",
+    "questions": 72,
+    "minutes": 110,
+    "sections": [
+      {
+        "name": "Listening",
+        "questions": 35,
+        "minutes": 25
+      },
+      {
+        "name": "Reading",
+        "questions": 35,
+        "minutes": 35
+      },
+      {
+        "name": "Writing",
+        "questions": 2,
+        "minutes": 40
+      }
+    ],
+    "speaking": true,
+    "speaking_minutes": 23,
+    "directory": "tests/hsk-5"
+  },
+  {
+    "level": "6",
+    "questions": 82,
+    "minutes": 125,
+    "sections": [
+      {
+        "name": "Listening",
+        "questions": 40,
+        "minutes": 30
+      },
+      {
+        "name": "Reading",
+        "questions": 40,
+        "minutes": 40
+      },
+      {
+        "name": "Writing",
+        "questions": 2,
+        "minutes": 45
+      }
+    ],
+    "speaking": true,
+    "speaking_minutes": 23,
+    "directory": "tests/hsk-6"
+  },
+  {
+    "level": "7-9",
+    "questions": 91,
+    "minutes": 200,
+    "sections": [
+      {
+        "name": "Listening",
+        "questions": 40,
+        "minutes": 33
+      },
+      {
+        "name": "Reading",
+        "questions": 40,
+        "minutes": 50
+      },
+      {
+        "name": "Writing",
+        "questions": 2,
+        "minutes": 55
+      },
+      {
+        "name": "Translation",
+        "questions": 4,
+        "minutes": 42
+      },
+      {
+        "name": "Speaking",
+        "questions": 5,
+        "minutes": 20
+      }
+    ],
+    "speaking": true,
+    "speaking_minutes": null,
+    "directory": "tests/hsk-7-9"
+  }
+]

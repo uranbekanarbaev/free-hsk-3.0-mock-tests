@@ -1,0 +1,193 @@
+{
+  "source_package": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+  "edition": "New HSK 3.0 sample set",
+  "checked": "2026-09-28",
+  "files": [
+    {
+      "file": "tests/hsk-1/test.pdf",
+      "source_file": "HSK/HSK（一级）样卷.pdf",
+      "sha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+    },
+    {
+      "file": "tests/hsk-1/answers.pdf",
+      "source_file": "HSK/HSK（一级）样卷答案.pdf",
+      "sha256": "5f470826e20a38063eaca66c6efeecacc2b771540e069fc0ff6955276f543a8b"
+    },
+    {
+      "file": "tests/hsk-2/test.pdf",
+      "source_file": "HSK/HSK（二级）样卷.pdf",
+      "sha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c"
+    },
+    {
+      "file": "tests/hsk-2/answers.pdf",
+      "source_file": "HSK/HSK（二级）样卷答案.pdf",
+      "sha256": "4bb64c8d61a3b385c66cce19222edafbd6149d8542339fbaa4bf04487bc7dbfd"
+    },
+    {
+      "file": "tests/hsk-3/test.pdf",
+      "source_file": "HSK/HSK（三级）样卷.pdf",
+      "sha256": "626134246b804b905ba37bc4018bcf5450759dd4d287b0a9981fbee7aab95870"
+    },
+    {
+      "file": "tests/hsk-3/answers.pdf",
+      "source_file": "HSK/HSK（三级）样卷答案.pdf",
+      "sha256": "4acbfcbb9a99322d8d83f9df1f1e761362ed0929cd90067ae54d338f76696cdf"
+    },
+    {
+      "file": "tests/hsk-3/speaking.pdf",
+      "source_file": "HSK口语/HSK（三级）口语样卷.pdf",
+      "sha256": "68d0dbb4597bf3283a979a8922dbec7eb27a0e6ee205125ab4526142851d1913"
+    },
+    {
+      "file": "tests/hsk-4/test.pdf",
+      "source_file": "HSK/HSK（四级）样卷.pdf",
+      "sha256": "1610abb11d50f4a6a8a4a8f4d24b8b08249cb4df15ef8b73fa1a5c7e1cf5aa58"
+    },
+    {
+      "file": "tests/hsk-4/answers.pdf",
+      "source_file": "HSK/HSK（四级）样卷答案.pdf",
+      "sha256": "2bd05f1b6352f6eeb72e13a0766e8ea8c1ab0cf2fd20fc56069fe1e2124d5334"
+    },
+    {
+      "file": "tests/hsk-4/speaking.pdf",
+      "source_file": "HSK口语/HSK（四级）口语样卷.pdf",
+      "sha256": "60242fe82742e384136d5e8b338a0000774ddc9e6fa42b14cdda7eccb407ed4d"
+    },
+    {
+      "file": "tests/hsk-5/test.pdf",
+      "source_file": "HSK/HSK（五级）样卷.pdf",
+      "sha256": "82e0fe96ff3b1c87855e5f9de144b04fa8db91567f3c4c6e826e72642c305c57"
+    },
+    {
+      "file": "tests/hsk-5/answers.pdf",
+      "source_file": "HSK/HSK（五级）样卷答案.pdf",
+      "sha256": "ef62dba6415f7068ce2e41f5d2955e0b37a474d43bc0c6d1d6d7a1d8b8ebd296"
+    },
+    {
+      "file": "tests/hsk-5/speaking.pdf",
+      "source_file": "HSK口语/HSK（五级）口语样卷.pdf",
+      "sha256": "dd403b319ff89719742bdf6923ce7ca9805b2ed12bd728844fafd9c9e342da66"
+    },
+    {
+      "file": "tests/hsk-6/test.pdf",
+      "source_file": "HSK/HSK（六级）样卷.pdf",
+      "sha256": "24a926b5217a879d4aed7160c7eee83a896913ec1ac78498e2ffafc444443217"
+    },
+    {
+      "file": "tests/hsk-6/answers.pdf",
+      "source_file": "HSK/HSK（六级）样卷答案.pdf",
+      "sha256": "439a888db2e08c591f57ec6ca0f26301095936aafc4ffcd89a59373cf2cff1c4"
+    },
+    {
+      "file": "tests/hsk-6/speaking.pdf",
+      "source_file": "HSK口语/HSK（六级）口语样卷.pdf",
+      "sha256": "f18f88da232fad5b465f043ff910cf7e9a5782a749e7e7d7e9ad891605dc4e89"
+    },
+    {
+      "file": "tests/hsk-7-9/test.pdf",
+      "source_file": "HSK/HSK（七—九级）样卷.pdf",
+      "sha256": "76478008501879211712af9172ebe26f73a8a59102685a32c85c7e6a25f0b850"
+    },
+    {
+      "file": "tests/hsk-7-9/answers.pdf",
+      "source_file": "HSK/HSK（七—九级）样卷答案.pdf",
+      "sha256": "fb0956d14376669a23fa03e08c7e52238036feac3c60c8d822cfd2a02ad97513"
+    },
+    {
+      "file": "tests/hsk-1/listening.mp3",
+      "source_file": "HSK/音频/HSK（一级）样卷.mp3",
+      "sha256": "24bcb74fcd3a3016bb7a1335e02650c7acde5446c5d785fa4fdf94cf6b6eba78",
+      "source_sha256": "b9edaab5fb2b37e89a0ea45809812a3fc82f5a3ea6ed9d201f1f2f1a5f7fb487",
+      "duration_seconds": 794.592,
+      "encoding": "MP3, 64 kbps, mono, 24 kHz; full recording, no cuts"
+    },
+    {
+      "file": "tests/hsk-2/listening.mp3",
+      "source_file": "HSK/音频/HSK（二级）样卷.mp3",
+      "sha256": "bb155754dc721d7a65f4209b96b3a6f29f6fcdc484fdf101fd8d0837c073228b",
+      "source_sha256": "96e5eb75ad163775ddce71d86c523a32035e6ed0bb2a1c67993623602f17f11c",
+      "duration_seconds": 1068.672,
+      "encoding": "MP3, 64 kbps, mono, 24 kHz; full recording, no cuts"
+    },
+    {
+      "file": "tests/hsk-3/listening.mp3",
+      "source_file": "HSK/音频/HSK（三级）样卷.mp3",
+      "sha256": "f22d5b49c9b4b74ca1121ad0e4450df9f6152beab5e370beb6afba8fb2c7af6a",
+      "source_sha256": "983bb485e65235dc7acb7403e9b998c1deb98f18beb32b224dd8e4ea6bf5064a",
+      "duration_seconds": 1447.752,
+      "encoding": "MP3, 64 kbps, mono, 24 kHz; full recording, no cuts"
+    },
+    {
+      "file": "tests/hsk-3/speaking.mp3",
+      "source_file": "HSK口语/HSK（三级）口语样卷.mp3",
+      "sha256": "591c7b758640659aeafaef0dda7251631612b992bb4b373fe4ba551ad87fda54",
+      "source_sha256": "844271e97474431fdf9bf77e3321c6891010a313f3466017d483f84ed55ab152",
+      "duration_seconds": 980.304,
+      "encoding": "MP3, 64 kbps, mono, 24 kHz; full recording, no cuts"
+    },
+    {
+      "file": "tests/hsk-4/listening.mp3",
+      "source_file": "HSK/音频/HSK（四级）样卷.mp3",
+      "sha256": "63eea8daea25e05f84bde8142116fa8791f190cb090b26bda5a24681041329d3",
+      "source_sha256": "f0baaf014eccad2187a3a80b4aa0b03e48b3a0c68a69adcac9d5ab10255c654d",
+      "duration_seconds": 1269.048,
+      "encoding": "MP3, 64 kbps, mono, 24 kHz; full recording, no cuts"
+    },
+    {
+      "file": "tests/hsk-4/speaking.mp3",
+      "source_file": "HSK口语/HSK（四级）口语样卷.mp3",
+      "sha256": "519ae08a889c98205e78eab38cad19039f0f96074268950dcbc20fce11bbc076",
+      "source_sha256": "03fab46b51d583f9b306a3eae40b728a303f69c9637eaecd9830e700a854c8a9",
+      "duration_seconds": 1282.488,
+      "encoding": "MP3, 64 kbps, mono, 24 kHz; full recording, no cuts"
+    },
+    {
+      "file": "tests/hsk-5/listening.mp3",
+      "source_file": "HSK/音频/HSK（五级）样卷.mp3",
+      "sha256": "ebb5648fe32d29dbb0bf8eb00e9ae9f379f9760f5773ca6c7c70e8d2543875c7",
+      "source_sha256": "112c8e0e473e5a76f540efd293e76599188e7d24eb6cd1736e2c6dbaae87a549",
+      "duration_seconds": 1591.992,
+      "encoding": "MP3, 64 kbps, mono, 24 kHz; full recording, no cuts"
+    },
+    {
+      "file": "tests/hsk-5/speaking.mp3",
+      "source_file": "HSK口语/HSK（五级）口语样卷.mp3",
+      "sha256": "6b9e6f8d8453b757ff9e84d8e4f8800185d6966eaa841c08c37e69360033abec",
+      "source_sha256": "1e256046e70643c95a89295d5fc2cd1d1d9784bc31fbad34eafa87a021208c69",
+      "duration_seconds": 1469.4,
+      "encoding": "MP3, 64 kbps, mono, 24 kHz; full recording, no cuts"
+    },
+    {
+      "file": "tests/hsk-6/listening.mp3",
+      "source_file": "HSK/音频/HSK（六级）样卷.mp3",
+      "sha256": "83e0e8a8123f0722bc9870e72a7574d938fc79b2ce88f2c77a797213e4165c61",
+      "source_sha256": "2a01213e412070152465476ddadf10174f433323836fa2f940be70661e95c170",
+      "duration_seconds": 1895.544,
+      "encoding": "MP3, 64 kbps, mono, 24 kHz; full recording, no cuts"
+    },
+    {
+      "file": "tests/hsk-6/speaking.mp3",
+      "source_file": "HSK口语/HSK（六级）口语样卷.mp3",
+      "sha256": "482b3ff64849742bc050fd092ca1f2c477c94025af115c17e7b46b2554f02845",
+      "source_sha256": "c63071723be7188c1015b833be8599605232f6e06e58f5b557c40a1b0eeab1f5",
+      "duration_seconds": 1455.384,
+      "encoding": "MP3, 64 kbps, mono, 24 kHz; full recording, no cuts"
+    },
+    {
+      "file": "tests/hsk-7-9/listening.mp3",
+      "source_file": "HSK/音频/HSK（七—九级）样卷听力.mp3",
+      "sha256": "8773d13583330419389fdb746370eee7b664528a0786dd18141aa88132f55cf0",
+      "source_sha256": "def2ffe058c6f8c858687a5676a14a3be788a1cf0f0b57371c648e5c1c8d4a8a",
+      "duration_seconds": 1897.608,
+      "encoding": "MP3, 64 kbps, mono, 24 kHz; full recording, no cuts"
+    },
+    {
+      "file": "tests/hsk-7-9/speaking.mp3",
+      "source_file": "HSK/音频/HSK（七—九级）样卷口试.mp3",
+      "sha256": "7db513f88be831aea1888921a79bcbfe1244c2c5ec8eef838f060968d2f8f48f",
+      "source_sha256": "7d38453463a62c7e89245b78871249ab6128bd32094a188310755ce8910470ce",
+      "duration_seconds": 1642.584,
+      "encoding": "MP3, 64 kbps, mono, 24 kHz; full recording, no cuts"
+    }
+  ]
+}
